@@ -4,7 +4,7 @@
 This repository contains a data analysis performed by Marco A. Godoy as part of the Practical Application Assignment 11 for the UC Berkeley Professional Certificate in ML/AI Program (2023).
 
 For a link to the Jupyter Notebook, please click here:
-https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-11/blob/main/prompt.ipynb
+[https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-11/blob/main/prompt.ipynb](https://github.com/marcoantoniogodoy/ucberkeley-mlai-practical-application-11/blob/main/prompt_II.ipynb)
 
 Contact Information:
 https://www.linkedin.com/in/marco-antonio-godoy
