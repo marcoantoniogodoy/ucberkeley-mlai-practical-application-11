@@ -22,6 +22,6 @@ Once we completed the data exploration and preparation phases, we proceeded to t
 Based on the results of the top three selected models and after finding the common features between them, we concluded that the the most relevant features when determining the price of used cars are "fuel", "type", "year", "cylinders" and "drive".
 
 ## Next steps and Recommendations:
-As supported by the results ot our analysis, we conclude that the most important features when determining the price of an used car are "fuel", "type", "year", "cylinders" and "drive". However, as we mentioned the dataset provided contained incomplete data in several entries. This resulted in a data loss of about ~80% of the original dataset. Additionally, the location data provided could not be geodecoded due to the lack of structure of the region field. 
+As supported by the results ot our analysis, we concluded that the most important features when determining the price of an used car are "fuel", "type", "year", "cylinders" and "drive". However, as we mentioned the dataset provided contained incomplete data in several entries. This resulted in a data loss of about ~80% of the original dataset. Additionally, the location data provided could not be geodecoded due to the lack of structure of the region field. 
 
 However, even with the such limitations, after our data exploration and data reformatting, we feel confident that the quality of the resulted model led to conclusive results. 
